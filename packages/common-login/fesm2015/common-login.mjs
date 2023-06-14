@@ -18,12 +18,12 @@ class CommonLoginComponent {
     ngOnInit() { }
 }
 CommonLoginComponent.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "13.3.12", ngImport: i0, type: CommonLoginComponent, deps: [], target: i0.ɵɵFactoryTarget.Component });
-CommonLoginComponent.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "12.0.0", version: "13.3.12", type: CommonLoginComponent, selector: "common-login", ngImport: i0, template: ` <h3>common-login works will be implemented here!</h3> `, isInline: true });
+CommonLoginComponent.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "12.0.0", version: "13.3.12", type: CommonLoginComponent, selector: "common-login", ngImport: i0, template: ` <h3>common-login works will be implemented here for future!</h3> `, isInline: true });
 i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "13.3.12", ngImport: i0, type: CommonLoginComponent, decorators: [{
             type: Component,
             args: [{
                     selector: 'common-login',
-                    template: ` <h3>common-login works will be implemented here!</h3> `,
+                    template: ` <h3>common-login works will be implemented here for future!</h3> `,
                     styles: [],
                 }]
         }], ctorParameters: function () { return []; } });
