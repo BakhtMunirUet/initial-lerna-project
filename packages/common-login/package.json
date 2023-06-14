@@ -1,6 +1,6 @@
 {
-  "name": "common-login",
-  "version": "2.0.0",
+  "name": "common-login-test",
+  "version": "1.0.1",
   "peerDependencies": {
     "@angular/common": "^13.3.0",
     "@angular/core": "^13.3.0"
@@ -8,23 +8,23 @@
   "dependencies": {
     "tslib": "^2.3.0"
   },
-  "module": "fesm2015/common-login.mjs",
-  "es2020": "fesm2020/common-login.mjs",
-  "esm2020": "esm2020/common-login.mjs",
-  "fesm2020": "fesm2020/common-login.mjs",
-  "fesm2015": "fesm2015/common-login.mjs",
-  "typings": "common-login.d.ts",
+  "module": "fesm2015/common-login-test.mjs",
+  "es2020": "fesm2020/common-login-test.mjs",
+  "esm2020": "esm2020/common-login-test.mjs",
+  "fesm2020": "fesm2020/common-login-test.mjs",
+  "fesm2015": "fesm2015/common-login-test.mjs",
+  "typings": "common-login-test.d.ts",
   "exports": {
     "./package.json": {
       "default": "./package.json"
     },
     ".": {
-      "types": "./common-login.d.ts",
-      "esm2020": "./esm2020/common-login.mjs",
-      "es2020": "./fesm2020/common-login.mjs",
-      "es2015": "./fesm2015/common-login.mjs",
-      "node": "./fesm2015/common-login.mjs",
-      "default": "./fesm2020/common-login.mjs"
+      "types": "./common-login-test.d.ts",
+      "esm2020": "./esm2020/common-login-test.mjs",
+      "es2020": "./fesm2020/common-login-test.mjs",
+      "es2015": "./fesm2015/common-login-test.mjs",
+      "node": "./fesm2015/common-login-test.mjs",
+      "default": "./fesm2020/common-login-test.mjs"
     }
   },
   "sideEffects": false

@@ -1,5 +1,5 @@
 {
-  "name": "common-login",
+  "name": "common-login-test",
   "version": "1.0.1",
   "peerDependencies": {
     "@angular/common": "^13.3.0",

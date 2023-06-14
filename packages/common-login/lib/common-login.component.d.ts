@@ -4,5 +4,5 @@ export declare class CommonLoginComponent implements OnInit {
     constructor();
     ngOnInit(): void;
     static ɵfac: i0.ɵɵFactoryDeclaration<CommonLoginComponent, never>;
-    static ɵcmp: i0.ɵɵComponentDeclaration<CommonLoginComponent, "common-login", never, {}, {}, never, never>;
+    static ɵcmp: i0.ɵɵComponentDeclaration<CommonLoginComponent, "common-login-test", never, {}, {}, never, never>;
 }
