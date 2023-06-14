@@ -1,0 +1,31 @@
+{
+  "name": "bmk-library-first",
+  "version": "1.0.1",
+  "peerDependencies": {
+    "@angular/common": "^13.3.0",
+    "@angular/core": "^13.3.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "module": "fesm2015/bmk-library-first.mjs",
+  "es2020": "fesm2020/bmk-library-first.mjs",
+  "esm2020": "esm2020/bmk-library-first.mjs",
+  "fesm2020": "fesm2020/bmk-library-first.mjs",
+  "fesm2015": "fesm2015/bmk-library-first.mjs",
+  "typings": "bmk-library-first.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./bmk-library-first.d.ts",
+      "esm2020": "./esm2020/bmk-library-first.mjs",
+      "es2020": "./fesm2020/bmk-library-first.mjs",
+      "es2015": "./fesm2015/bmk-library-first.mjs",
+      "node": "./fesm2015/bmk-library-first.mjs",
+      "default": "./fesm2020/bmk-library-first.mjs"
+    }
+  },
+  "sideEffects": false
+}
